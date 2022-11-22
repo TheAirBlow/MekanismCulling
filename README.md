@@ -7,8 +7,8 @@ Only Mekanism `9.8.3.390` is supported, don't ask why.
 
 ## Before
 Invisible faces are rendered, slow
-[insert gif here]
+![slow](https://raw.githubusercontent.com/TheAirBlow/MekanismCulling/main/images/slow.webm)
 
 ## After
 Invisible faces are culled, fast
-[insert gif here]
+![fast](https://raw.githubusercontent.com/TheAirBlow/MekanismCulling/main/images/fast.webm)
