@@ -94,6 +94,7 @@ fabric.properties
 
 # include sourcecode
 !src/
+!images/
 
 # include git important files
 !.gitmodules
