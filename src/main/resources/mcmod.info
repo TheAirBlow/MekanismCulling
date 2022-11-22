@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "mekanism-culling",
+        "name": "Mekanism Culling",
+        "description": "No more lag when looking at generator multiblocks",
+        "version": "1.0.0",
+        "mcversion": "1.12.2",
+        "url": "https://github.com/TheAirBlow/MekanismCulling",
+        "updateUrl": "",
+        "authorList": ["TheAirBlow"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": ["mekanism@[9.8.3.390]", "mekanismgenerators@[9.8.3.390]", "mixinbooter@[7.0]"]
+    }
+]
